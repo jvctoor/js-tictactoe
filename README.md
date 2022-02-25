@@ -1,4 +1,4 @@
-# Jogo da velha em Javascript
+# Jogo da velha em JavaScript
 Apenas um jogo da velha em JS.
 
 <br>
